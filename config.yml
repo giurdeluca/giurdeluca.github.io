@@ -18,6 +18,9 @@ menu:
         - name: Courses
           url: courses/
           weight: 3
+        - name: Talks
+          url: talks/
+          weight: 4
         - name: Blog
           url: blog/
           weight: 6
@@ -38,7 +41,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["courses","papers","blog"]
+    MainSections: ["courses","papers","blog","talks"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -50,7 +53,7 @@ params:
           enabled: true
           title: Giulia Raffaella De Luca, MS
           subtitle: "I am a PhD student at the University of Bologna, Italy. My research focuses on the use of AI in lung cancer screening. I graduated in biomedical engineering in 2023."
-          imageUrl: "picture.jpeg"
+          imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -58,6 +61,8 @@ params:
               url: papers/
             - name: Blog
               url: blog/
+            - name: Talks
+              url: talks/
             - name: Courses
               url: courses/
             - name: Tags
@@ -67,7 +72,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: shortcv-latex-apr2025-eng.pdf
         - name: Email
           url: mailto:giulia.deluca19@unibo.it
         - name: Location
