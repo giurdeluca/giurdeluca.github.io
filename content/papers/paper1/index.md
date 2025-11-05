@@ -1,16 +1,16 @@
 ---
 title: "The Pivotal Role of Baseline LDCT for Lung Cancer Screening in the Era of Artificial Intelligence" 
-date: 2025-11-05
+#date: 2025-11-05
 tags: ["Artificial intelligence","Low-dose computed tomography","Lung cancer","Screening"]
 author: ["Giulia Raffaella De Luca","Stefano Diciotti","Mario Mascalchi"]
 description: "This paper reviews AI applications for lung cancer screening with low-dose computed tomography (LDCT), focusing on the role of the initial (baseline) LDCT examination. Published in the Archivos de Bronconeumología, 2025." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+summary: "This paper reviews AI applications for lung cancer screening with low-dose computed tomography (LDCT), focusing on the role of the initial (baseline) LDCT examination. Published in the Archivos de Bronconeumología, 2025."
 cover:
     image: "archivos2025.png"
     alt: "archivos cover"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: "https://doi.org/10.1016/j.arbres.2024.11.001"
     Text: "Archivos de Bronconeumología"
 
 ---

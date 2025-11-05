@@ -15,9 +15,6 @@ menu:
         - name: Papers
           url: papers/
           weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
         - name: Talks
           url: talks/
           weight: 4
@@ -26,7 +23,7 @@ menu:
           weight: 6
 
 params:
-    description: "This website hosts Giulia Raffaella De Luca's research papers, course materials, curriculum vitae, and contact information."
+    description: "This website hosts Giulia Raffaella De Luca's research papers, talks, curriculum vitae, and contact information."
     author: Giulia Raffaella De Luca
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "November 2025"
@@ -41,7 +38,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["courses","papers","blog","talks"]
+    MainSections: ["papers","blog","talks"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -63,8 +60,6 @@ params:
               url: blog/
             - name: Talks
               url: talks/
-            - name: Courses
-              url: courses/
             - name: Tags
               url: tags/
             - name: Archive
