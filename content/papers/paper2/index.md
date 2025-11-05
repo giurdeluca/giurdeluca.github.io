@@ -1,17 +1,17 @@
 ---
 title: "Development of a 3-D standardized lung template from low-dose CT scans" 
 date: 2025-10-26
-tags: ["computed tomography","lung imaging","quantitative imaging","template"]
+tags: ["low-dose computed tomography","lung imaging","quantitative imaging","template"]
 author: ["Giulia Raffaella De Luca","Mario Mascalchi","Stefano Diciotti"]
 description: "Lungs lack a standard reference map like the brain has; we built one from screening low-dose CTs and used it to pinpoint how emphysema structurally changes the lungs."
-summary: "Lungs lack a standard reference map like the brain has; we built one from screening low-dose CTs and used it to pinpoint how emphysema structurally changes the lungs."
+summary: "Lungs lack a standard reference map like the brain has; we built one from screening low-dose CTs and used it to pinpoint how emphysema structurally changes the lungs." 
+editPost:
+    URL: "https://openreview.net/forum?id=O6vCD7wMrT#discussion"
+    Text: "OpenReview"
 cover:
     image: "template.png"
     alt: "template cover"
-    relative: true
-editPost:
-    URL: "https://openreview.net/forum?id=O6vCD7wMrT"
-    Text: "OpenReview"
+    relative: true 
 ---
 
 ##### Abstract
