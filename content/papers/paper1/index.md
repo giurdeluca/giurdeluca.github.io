@@ -1,25 +1,17 @@
 ---
 title: "The Pivotal Role of Baseline LDCT for Lung Cancer Screening in the Era of Artificial Intelligence" 
-#date: 2025-11-05
+date: 2025-11-05
 tags: ["Artificial intelligence","Low-dose computed tomography","Lung cancer","Screening"]
 author: ["Giulia Raffaella De Luca","Stefano Diciotti","Mario Mascalchi"]
 description: "This paper reviews AI applications for lung cancer screening with low-dose computed tomography (LDCT), focusing on the role of the initial (baseline) LDCT examination. Published in the Archivos de Bronconeumología, 2025." 
 summary: "This paper reviews AI applications for lung cancer screening with low-dose computed tomography (LDCT), focusing on the role of the initial (baseline) LDCT examination. Published in the Archivos de Bronconeumología, 2025."
-cover:
-    image: "archivos2025.png"
-    alt: "archivos cover"
-    relative: true
+#cover:
+#    image: "archivos2025.png"
+#    alt: "archivos cover"
+#    relative: true
 editPost:
     URL: "https://doi.org/10.1016/j.arbres.2024.11.001"
     Text: "Archivos de Bronconeumología"
-
----
-
----
-
-##### Download
-
-+ [Paper](https://www.sciencedirect.com/science/article/pii/S0300289624004393/pdfft?md5=7870bbaca3a0089d8a2420e8eee94a44&pid=1-s2.0-S0300289624004393-main.pdf)
 
 ---
 
@@ -48,5 +40,11 @@ url = {https://www.sciencedirect.com/science/article/pii/S0300289624004393},
 author = {Giulia Raffaella {De Luca} and Stefano Diciotti and Mario Mascalchi},
 keywords = {Artificial intelligence, Low-dose computed tomography, Lung cancer, Screening}}
 ```
+
+---
+
+##### Download
+
++ [Paper](https://www.sciencedirect.com/science/article/pii/S0300289624004393/pdfft?md5=7870bbaca3a0089d8a2420e8eee94a44&pid=1-s2.0-S0300289624004393-main.pdf)
 
 ---

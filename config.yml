@@ -5,7 +5,7 @@ theme: PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 pagination:
-  pagerSize: 20
+  pagerSize: 40
 
 taxonomies:
     tag: tags
@@ -26,12 +26,12 @@ params:
     description: "This website hosts Giulia Raffaella De Luca's research papers, talks, curriculum vitae, and contact information."
     author: Giulia Raffaella De Luca
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "November 2025"
-    defaultTheme: light
+    DateFormat: "January 2006"
+    defaultTheme: auto
     hideFooter: false
     disableThemeToggle: true
-    ShowShareButtons: false
-    ShowReadingTime: false
+    ShowShareButtons: true
+    ShowReadingTime: true
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
     ShowPostNavLinks: false
@@ -41,7 +41,7 @@ params:
     MainSections: ["papers","blog","talks"]
     ShowToc: false
     disableScrollToTop: true
-    TocOpen: true
+    TocOpen: false
     ShowWordCount: false
     UseHugoToc: true
     comments: false
@@ -86,7 +86,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Giulia Raffaella De Luca"
-      icon: favicon.ico
+      icon: bunny.ico
       iconHeight: 18
 
 markup:
@@ -100,3 +100,6 @@ markup:
         endLevel: 2
         ordered: false
         startLevel: 2
+
+titleCaseStyle: 'none'
+enableGitInfo: true

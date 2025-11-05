@@ -1,9 +1,9 @@
 ---
-title: "My first post"
-date: 2025-05-11
-author: "Giulia Raffaella De Luca"
-description: "My first blog post, to introduce myself" 
-summary: "My first blog post, to introduce myself" 
+title: "My first post" 
+date: 2025-11-05 
+author: "Giulia Raffaella De Luca" 
+description: "My first blog post" 
+summary: "Let me introduce myself" 
 cover:
     image: "blog1.jpg"
     alt: "Golfo di Napoli (oct 2025)"
