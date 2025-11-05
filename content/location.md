@@ -10,8 +10,8 @@ description: "Giulia Raffaella De Luca's mailing and office addresses at the Uni
 
 #### Mailing address
 
-Giulia Raffaella De Luca
-Department of Electrical, Electronic, and Information Engineering "Guglielmo Marconi"
+Giulia Raffaella De Luca  
+Department of Electrical, Electronic, and Information Engineering "Guglielmo Marconi"  
 University of Bologna  
 Viale del Risorgimento 2, Bologna, Italy
 
@@ -19,9 +19,9 @@ Viale del Risorgimento 2, Bologna, Italy
 
 #### Office address
   
-Cesena Campus
-University of Bologna
-Via dell'Università 50, Cesena, Italy 
+Cesena Campus  
+University of Bologna  
+Via dell'Università 50, Cesena, Italy  
 
 ---
 
