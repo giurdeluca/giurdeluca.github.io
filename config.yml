@@ -85,8 +85,8 @@ params:
     assets:
         disableScrollBarStyle: true
     cover:
-        hiddenInList: false
-        hiddenInSingle: true
+        hiddenInList: true
+        hiddenInSingle: false
     label:
       text: "Giulia Raffaella De Luca"
       icon: bunny.ico
