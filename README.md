@@ -11,7 +11,7 @@ This repository contains the source code and content for Giulia Raffaella De Luc
 
 + [Research papers](https://giurdeluca.github.io/papers/) - Papers and online appendices are linked. Metadata are stored as Markdown files in the `content/papers` folder.
 + [Talks](https://giurdeluca.github.io/talks/) - A list of given talks and seminar is presented, with eventual link to recordings.
-+ [Blog](https://giurdeluca.github.io/talks/) - A personal blog with posts stored as Markdown files in the `content/blog` folder.
++ [Blog](https://giurdeluca.github.io/blog/) - A personal blog with posts stored as Markdown files in the `content/blog` folder.
 + Content can be batch downloaded by cloning this repository.
 
 ## License
