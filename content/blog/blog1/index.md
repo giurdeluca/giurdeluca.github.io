@@ -5,12 +5,13 @@ summary: "Let me introduce myself"
 cover:
     image: "blog1.jpg"
     alt: "Golfo di Napoli (oct 2025)"
-    relative: true
+    relative: false
 #editPost:
 #    URL: "https://github.com/pmichaillat/hugo-website"
 #    Text: "Course portal"
 showToc: false
 disableAnchoredHeadings: false
+hideAuthor: true
 ---
 
 ## Hello, world!

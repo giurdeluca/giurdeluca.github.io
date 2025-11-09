@@ -5,13 +5,13 @@ summary: "Riflessioni sul dottorato"
 cover:
     image: "blog2.jpg"
     alt: "Mustang in Atlanta (oct 2025)"
-    relative: true
+    relative: false
 #editPost:
 #    URL: "https://github.com/pmichaillat/hugo-website"
 #    Text: "Course portal"
 showToc: false
 disableAnchoredHeadings: false
-
+hideAuthor: true
 ---
 
 ## La zavorra
