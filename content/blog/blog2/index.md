@@ -22,7 +22,7 @@ Nonostante quest'incoscienza però avevo preso un'abitudine a dir poco paradossa
 Ci ho messo circa due anni poi a capire che aveva senso:
 1. Essere costante con lo studio, cercando di studiare lezione per lezione;
 2. Nella sessione di esami inserire dei 'cuscinetti' di giornate vuote, perchè non si sa mai che un giorno ti svegli con i neuroni in cortocircuito;
-3. Non ha senso portarsi lo zaino se sai che non potrai metterti a studiare.  
+3. Non portarsi lo zaino se sai che non potrai metterti a studiare.  
 E così (e grazie ad una formidabile compagna di studio) ho trovato un "punto di equilibrio stabile", in cui potermi dondolare e resistere alle perturbazioni esterne.  
 
 Ecco, in quest'ultimo periodo mi sono resa conto che ho ripreso a portarmi dietro una zavorra: il computer. Perchè c'è sempre un bug che potevo sistemare, un codice in esecuzione da controllare, una scadenza che rischio di bucare. Non cambia se in quella giornata ho già lavorato per 5, 8, 12 ore. Se c'è bisogno il computer è con me, con la differenza che non è più un peso morto, perchè spesso poi lo accendo. Per fixare quel bug, per controllare il codice, per finire di scrivere il paper da mandare in conferenza. Anche se ho già lavorato per 5, 8 o 12 ore. Anche se i miei neuroni sono in cortocircuito.  
