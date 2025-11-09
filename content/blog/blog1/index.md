@@ -1,8 +1,6 @@
 ---
-title: "My first post" 
+title: "My first blog post" 
 date: 2025-11-05 
-author: "Giulia Raffaella De Luca" 
-description: "My first blog post" 
 summary: "Let me introduce myself" 
 cover:
     image: "blog1.jpg"
@@ -13,7 +11,6 @@ cover:
 #    Text: "Course portal"
 showToc: false
 disableAnchoredHeadings: false
-
 ---
 
 ## Hello, world!

@@ -1,8 +1,6 @@
 ---
 title: "Autogestione" 
 date: 2025-11-09 
-author: "Giulia Raffaella De Luca" 
-description: "Autogestione" 
 summary: "Riflessioni sul dottorato" 
 cover:
     image: "blog2.jpg"
