@@ -3,9 +3,44 @@ This is just a placeholder blank stylesheet so as to support adding custom style
 
 Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
 */
+
 /* Corregge la distorsione della cover image */
 .post-cover img {
     width: 100%;
     height: 100%;
-    object-fit: cover; 
+    object-fit: cover;
 }
+
+/* Prevent content images from being squeezed:
+   - allow them to scale responsively
+   - preserve original aspect ratio
+*/
+img,
+.main img,
+.entry-content img,
+.post img,
+.article img,
+figure img,
+.figure-img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Small in-text icons: control size via CSS instead of a fixed HTML height attribute */
+.in-text {
+    width: auto;
+    height: auto;
+    max-height: 1.2rem; /* tune this to the desired icon size */
+    vertical-align: middle;
+    display: inline-block;
+}
+
+/* If some other styles force height, the rule below is more specific.
+   Only enable the !important if you still see distortion after the above. */
+/*
+.entry-content img,
+.post img {
+    height: auto !important;
+}
+*/
