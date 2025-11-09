@@ -1,5 +1,5 @@
 ---
-title: "My first post" 
+title: "Autogestione" 
 date: 2025-11-09 
 author: "Giulia Raffaella De Luca" 
 description: "Autogestione" 
@@ -7,7 +7,7 @@ summary: "Riflessioni sul dottorato"
 cover:
     image: "blog2.jpg"
     alt: "Mustang in Atlanta (oct 2025)"
-    relative: false
+    relative: true
 #editPost:
 #    URL: "https://github.com/pmichaillat/hugo-website"
 #    Text: "Course portal"
@@ -16,7 +16,7 @@ disableAnchoredHeadings: false
 
 ---
 
-## Autogestione
+## La zavorra
 
 Quando ho iniziato la triennale in ingegneria non avevo idea del carico di studio che avrei davvero dovuto sostenere. Provavo a portare avanti la mia strategia delle scuole superiori: tutto in 2 giorni prima dell'interrogazione. Inutile dire che non si può vincere una maratona solo sprintando per gli ultimi due minuti...
 Nonostante quest'incoscienza però avevo preso un'abitudine a dir poco paradossale: avevo lo zaino con i libri sempre con me, come una zavorrina, un pensiero costante. Forse era il segno di quello che avrei capito più avanti, la "posa della prima pietra".  
