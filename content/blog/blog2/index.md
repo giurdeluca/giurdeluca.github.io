@@ -5,6 +5,7 @@ summary: "Riflessioni sul dottorato"
 cover:
     image: "blog2.jpg"
     alt: "Mustang in Atlanta (oct 2025)"
+    caption: "Red classy Mustang in Atlanta — @giurdeluca (Oct 2025)"
     relative: false
 #editPost:
 #    URL: "https://github.com/pmichaillat/hugo-website"
