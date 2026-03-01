@@ -1,7 +1,9 @@
 ---
 title: "Talks"
-description: "Given talks at conferences (🎓) and seminars (🎤)"
+description: "Given talks at conferences (🎓) and 'in the wild' (🎤)"
 ---
+## 2026
+- 🎤 “A GPS for lung cancer,” **[Three-Minute-Thesis Competition](https://youtu.be/BDPi4Q407tw?list=PLb42sSbOF2BXZXhRaKTjYSd8c1efVoFl4&t=2509)**, University of Bologna, Bologna, February 25, 2026
 
 ## 2025
 - 🎓 G.R. De Luca, S. Diciotti, M. Mascalchi, “Development of a 3-D standardized lung template from low-dose CT scans,” **[2025 IEEE-EMBS International Conference on Biomedical and Health Informatics](https://bhi.embs.org/2025/)**, Atlanta, Georgia, October 26-29, 2025 (Poster presentation, presenter)

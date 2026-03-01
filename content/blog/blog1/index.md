@@ -1,11 +1,11 @@
 ---
-title: "My first blog post" 
-date: 2025-11-05 
-summary: "Let me introduce myself" 
+title: "Chi sono" 
+date: 2025-10-31 
+summary: "Hello, world!" 
 cover:
     image: "blog1.jpg"
     alt: "Golfo di Napoli (oct 2025)"
-    caption: "sunny Golfo di Napoli — @giurdeluca (ct 2025)"
+    caption: "sunny Golfo di Napoli — @giurdeluca (Oct 2025)"
     relative: true
 #editPost:
 #    URL: "https://github.com/pmichaillat/hugo-website"
