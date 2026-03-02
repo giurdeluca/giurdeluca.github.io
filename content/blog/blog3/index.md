@@ -26,13 +26,13 @@ Fermarsi è anche bello per festeggiare i propri traguardi, quelli che vengono v
 Ecco, la settimana scorsa è stato un tour de force tra la breve parentesi in Italia e la competizione a cui ho partecipato, e mi sono accorta solo una volta tornata a Nijmegen (dove sto svolgendo il periodo all'estero) che mi sono dimenticata di festeggiare!
 Ma festeggiare cosa?
 - Il primo mese da sola della mia vita (lo so, 28 anni è un po' tardi ma meglio tardi che mai)
-- Il primo mese all'estero
+- Il primo mese all'estero (sono a Nijmegen (NL), nel gruppo lungai del [DIAG](), al Radboudumc, per lavorare ad un modello di predizione di malignità dei noduli polmonari)
 - Il primo tiramisù in cui la crema impazzisce ma che trasformato in gelato è poi un capolavoro
 - Le nuove amicizie che sto costruendo e quelle che esistono da sempre
 - I nuovi progetti e le nuove idee che stanno nascendo (come se non bastassero quelli in corso)
 - La [Coimbra Group - **3-Minute-Thesis Competion** - Unibo edition](https://eventi.unibo.it/3mtcompetition)! Una vera e propria sfida in cui 10 ricercatori Unibo presentano il proprio progetto di dottorato in 3 minuti, usando un linguaggio comprensibile a tutti e con una sola slide (La diretta della competizione è visibile [qui](https://www.youtube.com/watch?v=BDPi4Q407tw&list=PLb42sSbOF2BXZXhRaKTjYSd8c1efVoFl4&index=4))
 
-Eh già, l'ultima non me la aspettavo neanche io. Certo, la passione per la divulgazione si è fatta sempre più spazio dentro di me nel tempo, specialmente dopo i laboratori per ragazzi delle medie tenuti con [Ossigeno S.C.S](https://www.ossigeno-scs.it/) - grazie Eliana, Danilo e Pier per quello che fate. Però ecco, riuscire a parlare del proprio progetto di dottorato in 3 minuti, in inglese, davanti ad una giuria, non era sicuramente nei piani della Giulia che ad 8 anni si vergognava anche di dire il proprio nome.
+Eh già, l'ultima non me la aspettavo neanche io. Certo, la passione per la divulgazione si è fatta sempre più spazio dentro di me nel tempo, specialmente dopo i laboratori per ragazzi delle medie tenuti con [Ossigeno S.C.S](https://www.ossigeno-scs.it/) - grazie Eliana, Danilo e Pier per quello che fate. Però ecco, riuscire a parlare del proprio progetto di dottorato in 3 minuti, in inglese, davanti ad una giuria, non era sicuramente nei piani della Giulia che ad 8 anni si vergognava anche di dire il proprio nome.  
 
 Stamattina ho 28 anni (ormai da 10 giorni...) e mi fermo per festeggiare, per capire un po' di più cosa mi piace fare e dove voglio andare, professionalmente e non, per ringraziare i colleghi che hanno partecipato alla competizione e ci hanno ricordato che fare scienza è il lavoro più bello del mondo.
 
