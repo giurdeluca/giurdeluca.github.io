@@ -36,7 +36,7 @@ Eh già, l'ultima non me la aspettavo neanche io. Certo, la passione per la divu
 
 Stamattina ho 28 anni (ormai da 10 giorni...) e mi fermo per festeggiare, per capire un po' di più cosa mi piace fare e dove voglio andare, professionalmente e non, per ringraziare i colleghi che hanno partecipato alla competizione e ci hanno ricordato che fare scienza è il lavoro più bello del mondo.
 
-A presto,
+A presto,  
 Giulia
 
 --- 
